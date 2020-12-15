@@ -20,7 +20,7 @@
             <a name="Departments">
                 <h2>Emergency Services</h2>
             </a>
-            <p>Police. Fire. EMS. Communications.  Our server covers all of the emergency services.  Law enforcement is provided by both the <a href="/tps">Toronto Police Service</a> and the <a href="/opp">Ontario Provincial Police</a> &mdash; each with their own designated patrol areas.</p>
+            <p>Police. Fire. EMS. Communications.  Our server covers all of the emergency services.  Law enforcement is provided by the <a href="/lps">London Police Service</a>, the <a href="/opp">Ontario Provincial Police</a> and <a href="/wrps">Waterloo Regional Police Service</a> &mdash; each with their own designated patrol areas.</p>
             <p>Our group is also made up of <a href="/civ">Civilians</a> &mdash; people who our emergency services need to help. And perhaps people who need a little encouragement to keep the peace in Los Sant...uh... Ontario.  We rely on them to keep things interesting during our patrols by coming up with fresh ideas.</p>
             <?php /*
             <p>Explore all of our departments:</p>
@@ -49,7 +49,7 @@
     <div class="col-md home-text">
         <div class="content" data-aos="fade-left">
             <h2>Immersive Ontario experience</h2>
-            <p>We use an Ontario map overlay with real-world street names and highway numbers.  You'll see familiar roads like Finch, Sheppard, Dundas, and Yonge as well as the 400-series highways, the DVP, and the Gardiner Expressway.</p>
+            <p>We use an Ontario map overlay with real-world street names and highway numbers.  You'll see familiar roads like as the 400-series highways.</p>
             <p>You'll also see familiar commercial vehicles in the game such as Canadian Tire, Longos, and Costco trucks.  If you need a tow, just call CAA and they'll send one of their trucks.  When things get really crazy, you can expect to see CP24 on scene for the scoop on what's going down.</p>
             <a href="/about#Gallery" class="btn btn-outline">View gallery</a>
         </div>
@@ -60,7 +60,7 @@
     <div class="col-md home-text">
         <div class="content" data-aos="fade-right">
             <h2>Real Emergency Services equipment</h2>
-            <p>GTRP has custom-made uniforms and vehicle skins for Toronto Police, O.P.P., Fire, and EMS.  We have custom equipment too like batons, radar guns, in-dash radar, and even a StarChase GPS-tracking system.</p>
+            <p>GTRP has custom-made uniforms and vehicle skins for London Police, Waterloo, O.P.P., Fire, and EMS.  We have custom equipment too like batons, radar guns, in-dash radar, and even a StarChase GPS-tracking system.</p>
             <p>Our communications are also state-of-the-art.  We use an Emergency Services-style radio system so that other in-game players can only hear you if you're nearby or are using the push-to-talk button for your radio.  Need to get details on a current call, like looking up a subject's name or licence plate?  No problem.  We have a CAD system that you can log on to and query information or see current BOLOs.</p>
             <a href="/join" class="btn btn-outline">Read more</a>
         </div>

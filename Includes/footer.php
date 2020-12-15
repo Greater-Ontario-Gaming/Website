@@ -14,6 +14,7 @@
                     <ul>
                         <li><a href="/about">What we do</a></li>
                         <li><a href="/about#Leadership">Leadership team</a></li>
+                        <li><a href="/dev#Leadership">Development team</a></li>
                         <li><a href="/about#Gallery">Gallery</a></li>
                     </ul>
                 </div>
