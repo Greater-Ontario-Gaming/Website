@@ -21,9 +21,10 @@
                         Departments
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="/tps">Toronto Police Service</a>
+                        <a class="dropdown-item" href="/lps">London Police Service</a>
+                        <a class="dropdown-item" href="/wrps">Waterloo Regional Police Service</a>
                         <a class="dropdown-item" href="/opp">Ontario Provincial Police</a>
-                        <a class="dropdown-item" href="/emsfire">Toronto Fire &amp; EMS</a>
+                        <a class="dropdown-item" href="/emsfire">Fire &amp; EMS</a>
                         <a class="dropdown-item" href="/civ">Civilian Operations</a>
                     </div>
                 </li>

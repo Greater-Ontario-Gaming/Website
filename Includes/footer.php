@@ -20,10 +20,11 @@
                 <div class="col-sm-6 col-md-4 col-lg mt-md-0">
                     <h2>Departments</h2>
                     <ul>
-                        <li><a href="/tps">Toronto Police Service</a></li>
-                        <li><a href="/opp">Ontario Provincial Police</a></li>
-                        <li><a href="/emsfire">Toronto Fire &amp; EMS</a></li>
-                        <li><a href="/civ">Civilian Operations</a></li>
+                    <li><a href="/lps">London Police Service</a></li>
+                            <li><a href="/wrps">Waterloo Regional Police Service</a></li>
+                            <li><a href="/opp">Ontario Provincial Police</a></li>
+                            <li><a href="/emsfire">Fire &amp; EMS</a></li>
+                            <li><a href="/civ">Civilian Operations</a></li>
                     </ul>
                 </div>
                 <div class="d-sm-none d-md-block col-md-4 d-lg-none"></div>

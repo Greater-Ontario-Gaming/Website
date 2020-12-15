@@ -3,7 +3,7 @@
     <nav id="mainNav" class="container fixed-top navbar-theme-black">
         <div class="row">
             <div class="col-auto">
-                <a class="navbar-brand" href="#"><img class="navbar-logo" src="/Images/gtrp_logo.png" alt="Greater Toronto Roleplay logo" title="Greater Toronto Roleplay" /></a>
+                <a class="navbar-brand" href="#"><img class="navbar-logo" src="/Images/gtrp_logo.png" alt="Greater Ontraio Roleplay logo" title="Greater Ontario Roleplay" /></a>
             </div>
             <div id="mainNavContent" class="col">
                 <div class="content hide-on-compact d-none d-sm-inline-block">
@@ -43,14 +43,15 @@
                 ?>
             </div>
             <div class="splash-overlay">
-                <div class="splash-slogan">Toronto, Ontario... now in Los Santos</div>
+                <div class="splash-slogan">West, Ontario... now in Los Santos</div>
                 <div class="row menu">
                     <div class="col-sm">
                         <h2>Departments</h2>
                         <ul>
-                            <li><a href="/tps">Toronto Police Service</a></li>
+                            <li><a href="/lps">London Police Service</a></li>
+                            <li><a href="/wrps">Waterloo Regional Police Service</a></li>
                             <li><a href="/opp">Ontario Provincial Police</a></li>
-                            <li><a href="/emsfire">Toronto Fire &amp; EMS</a></li>
+                            <li><a href="/emsfire">Fire &amp; EMS</a></li>
                             <li><a href="/civ">Civilian Operations</a></li>
                         </ul>
                     </div>

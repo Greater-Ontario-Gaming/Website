@@ -4,11 +4,11 @@
     <div class="col-md home-img home-img1"></div>
     <div class="col-md home-text text-large">
         <div class="content" data-aos="fade-left">
-            <h2>What is GTRP?</h2>
+            <h2>What is GORP?</h2>
             <p>
-                <b>Greater Toronto Roleplay</b> brings you a premium Canadian online gaming roleplay experience in Grand Theft Auto V.
+                <b>Greater Ontario Roleplay</b> brings you a premium Canadian online gaming roleplay experience in Grand Theft Auto V.
             </p>
-            <p>Managed by real-world Law Enforcement Officers, Greater Toronto Roleplay brings you an experience like non-other with real-world police equipment and techniques as well as our experienced management team to give you the support and training you need.  We do not fall short of your expectations!</p>
+            <p>Managed by real-world Law Enforcement Officers, Greater Ontario Roleplay brings you an experience like non-other with real-world police equipment and techniques as well as our experienced management team to give you the support and training you need.  We do not fall short of your expectations!</p>
             <a href="/about" class="btn btn-outline">Read more</a>
         </div>
     </div>
@@ -18,7 +18,7 @@
     <div class="col-md home-text">
         <div class="content" data-aos="fade-right">
             <a name="Departments">
-                <h2>Toronto Emergency Services</h2>
+                <h2>Emergency Services</h2>
             </a>
             <p>Police. Fire. EMS. Communications.  Our server covers all of the emergency services.  Law enforcement is provided by both the <a href="/tps">Toronto Police Service</a> and the <a href="/opp">Ontario Provincial Police</a> &mdash; each with their own designated patrol areas.</p>
             <p>Our group is also made up of <a href="/civ">Civilians</a> &mdash; people who our emergency services need to help. And perhaps people who need a little encouragement to keep the peace in Los Sant...uh... Ontario.  We rely on them to keep things interesting during our patrols by coming up with fresh ideas.</p>
