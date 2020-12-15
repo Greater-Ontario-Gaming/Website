@@ -1,0 +1,13 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+RedirectMatch "^/forum/(.*)?$" "https://greatertorontorp.com"
+
+#RewriteCond %{HTTP_HOST} ^.*$
+#RewriteRule ^/?$ "https\:\/\/greatertorontorp\.com\/forum\/" [R=302,L]
