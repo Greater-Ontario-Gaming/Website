@@ -55,7 +55,7 @@
             </div>
             <div class="row footer2">
                 <div class="col text-right">
-                    &copy; Greater Toronto Roleplay <?php echo date('Y'); ?>
+                    &copy; Greater Ontario Roleplay <?php echo date('Y'); ?>
                 </div>
             </div>
         </div>

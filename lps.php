@@ -1,5 +1,5 @@
 <?php
-$title = "TPS";
+$title = "LPS";
 include 'Includes/header_sub.php';
 ?>
 
@@ -11,8 +11,8 @@ include 'Includes/header_sub.php';
                     <img class="crest" src="/Images/crest-tps.png" />
                 </div>
                 <div class="col">
-                    <h1>Toronto Police Service</h1>
-                    <p>Providing law enforcement and keeping the peace within the city of Toronto.</p>
+                    <h1>London Police Service</h1>
+                    <p>Providing law enforcement and keeping the peace within the city of London.</p>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@ include 'Includes/header_sub.php';
             <div class="row">
                 <div class="col-md-6">
                     <h2>What you can expect</h2>
-                    <p>As an officer within TPS, you'll join patrol in full uniform and a police cruiser.  You will be expected to engage in proactive community policing and answer 9-1-1 calls for police assistance within the city, as well as provide backup to the Ontario Provincial Police Service outside the city and on major highways as required.  You'll have various Use of Force equipment to choose from to help you deal with situations if officer presence and communication alone are not working.  You'll be expected to use your radio to communicate with dispatch and other officers in a professional manner.</p>
+                    <p>As an officer within LPS, you'll join patrol in full uniform and a police cruiser.  You will be expected to engage in proactive community policing and answer 9-1-1 calls for police assistance within the city, as well as provide backup to the Ontario Provincial Police Service outside the city and on major highways as required.  You'll have various Use of Force equipment to choose from to help you deal with situations if officer presence and communication alone are not working.  You'll be expected to use your radio to communicate with dispatch and other officers in a professional manner.</p>
                 </div>
                 <div class="col-md-6">
                     <img src="/Images/tps-1.jpg" class="w-100" data-aos="fade-left" />
@@ -45,7 +45,7 @@ include 'Includes/header_sub.php';
                 </div>
                 <div class="col-md-6 mt-sm-4">
                     <h2>Application requirements</h2>
-                    <p>In order to apply to the GTRP Toronto Police Service department, you must meet the following requirements.</p>
+                    <p>In order to apply to the GORP London Police Service department, you must meet the following requirements.</p>
                     <ul>
                         <li>Minimum of 14 years of age</li>
                         <li>Able to speak, read, and write fluent English</li>

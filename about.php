@@ -55,8 +55,8 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                            Toronto Police
-                            <br />Service
+                        Ontario Provincial
+                            <br />Police
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_director.jpg" />
@@ -69,13 +69,13 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="50" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                            Ontario Provincial
-                            <br />Police
+                            London Police
+                            <br />Service
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_deputydirector.jpg" />
-                    <h3>Supt. K. McPherson</h3>
-                    <p>GTRP Deputy Director</p>
+                    <h3>Supt. N. Steel</h3>
+                    
                 </div>
                 <div class="col-12 d-lg-none">
                     <hr />
@@ -83,8 +83,8 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                            Fire
-                            <br />&amp; EMS
+                           Waterloo & London
+                            <br />Fire &amp; EMS
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_emsfire.jpg" />
@@ -97,13 +97,13 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="150" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                            Civilian
-                            <br />Operations
+                            Waterloo Regional
+                            <br />Police Service
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_deputydirector.jpg" />
-                    <h3>Supt. K. McPherson</h3>
-                    <p>GTRP Deputy Director</p>
+                    <h3>Supt. A. Gorgees</h3>
+                
                 </div>
             </div>
         </div>

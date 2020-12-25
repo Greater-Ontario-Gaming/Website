@@ -3,8 +3,8 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="subNav">
         <div class="navbar-brand flex-grow-1">
             <a class="" href="/">
-                <img class="navbar-logo logo-lg" src="/Images/gtrp_logo_h.png" alt="Greater Toronto Roleplay logo" title="Greater Toronto Roleplay" />
-                <img class="navbar-logo logo-sm" src="/Images/gtrp_logo_sm.png" alt="Greater Toronto Roleplay logo" title="Greater Toronto Roleplay" />
+                <img class="navbar-logo logo-lg" src="/Images/gtrp_logo_h.png" alt="Greater Ontario Roleplay logo" title="Greater Ontario Roleplay" />
+                <img class="navbar-logo logo-sm" src="/Images/gtrp_logo_sm.png" alt="Greater Ontario Roleplay logo" title="Greater Ontario Roleplay" />
             </a>
         </div>
         <button class="navbar-toggler flex-grow-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

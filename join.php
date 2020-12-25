@@ -9,7 +9,7 @@ include 'Includes/header_sub.php';
             <div class="row">
                 <div class="col">
                     <h1>Join us</h1>
-                    <p>We're always looking for more members to join in the fun at GTRP.  Apply today!</p>
+                    <p>We're always looking for more members to join in the fun at GORP.  Apply today!</p>
                 </div>
             </div>
         </div>
@@ -23,15 +23,15 @@ include 'Includes/header_sub.php';
             <div class="row">
                 <div class="col-md-6">
                     <h2>Why join GTRP?</h2>
-                    <p>Our customized server gives you a real Toronto, Ontario roleplay experience.</p>
+                    <p>Our customized server gives you a real West, Ontario roleplay experience.</p>
                     <ul>
-                        <li>Current TPS, OPP, Fire, and EMS vehicle fleets</li>
-                        <li>Multiple outfits matching TPS, OPP, Fire, and EMS</li>
-                        <li>Custom Toronto commercial vehicles</li>
-                        <li>AI traffic with Ontario/Toronto skins</li>
-                        <li>GO and TTC buses &amp; trains</li>
+                        <li>Current LPS, WRPS, OPP, Fire, and EMS vehicle fleets</li>
+                        <li>Multiple outfits matching LPS, WRPS, OPP, Fire, and EMS</li>
+                        <li>Custom commercial vehicles</li>
+                        <li>AI traffic with Ontario skins</li>
+                        <li>GO, Waterloo and London buses </li>
                         <li>30+ custom real-world civilian cars</li>
-                        <li>Current Toronto Fire and Medical Services fleet</li>
+                        <li>Current London, Waterloo Fire and Medical Services fleet</li>
                         <li>Speed signs in KPH</li>
                         <li>Yellow traffic lights</li>
                         <li>City taxis</li>
@@ -58,10 +58,11 @@ include 'Includes/header_sub.php';
                     <a name="Opportunities"><h2>Available opportunities</h2></a>
                     <p>We are currently looking for members to fill positions within the following departments:</p>
                     <ul>
-                        <li>Toronto Police Service</li>
+                        <li>London Police Service</li>
+                        <li>Waterloo Regional Police Service</li>
                         <li>Ontario Provincial Police</li>
-                        <li>Toronto Fire &amp; EMS</li>
-                        <li>Toronto Regional Communications</li>
+                        <li>London, Waterloo Fire &amp; EMS</li>
+                        <li>Regional Communications</li>
                         <li>Civilian Operations</li>
                         <li>Community Development</li>
                     </ul>
