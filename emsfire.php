@@ -11,7 +11,7 @@ include 'Includes/header_sub.php';
                     <img class="crest" src="/Images/crest-fire.png" />
                 </div>
                 <div class="col">
-                    <h1>Toronto Fire &amp; EMS</h1>
+                    <h1>Waterloo/London Fire & Paramedic Services</h1>
                     <p>Fire fighting, rescue, and paramedic services for the city of Toronto and surrounding areas.</p>
                 </div>
             </div>

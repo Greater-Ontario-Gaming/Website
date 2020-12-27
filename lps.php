@@ -3,12 +3,12 @@ $title = "LPS";
 include 'Includes/header_sub.php';
 ?>
 
-<div class="subsplash subsplash-img2">
+<div class="subsplash subsplash-img7">
     <div class="header">
         <div class="container-lg">
             <div class="row">
                 <div class="col-auto">
-                    <img class="crest" src="/Images/crest-tps.png" />
+                    <img class="crest" src="/Images/crest-lps.png" />
                 </div>
                 <div class="col">
                     <h1>London Police Service</h1>
@@ -29,7 +29,7 @@ include 'Includes/header_sub.php';
                     <p>As an officer within LPS, you'll join patrol in full uniform and a police cruiser.  You will be expected to engage in proactive community policing and answer 9-1-1 calls for police assistance within the city, as well as provide backup to the Ontario Provincial Police Service outside the city and on major highways as required.  You'll have various Use of Force equipment to choose from to help you deal with situations if officer presence and communication alone are not working.  You'll be expected to use your radio to communicate with dispatch and other officers in a professional manner.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/tps-1.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/lps-1.jpg" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@ include 'Includes/header_sub.php';
         <div class="container-lg">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="/Images/tps-2.jpg" class="w-100" data-aos="fade-right" />
+                    <img src="/Images/lps-2.jpg" class="w-100" data-aos="fade-right" />
                 </div>
                 <div class="col-md-6 mt-sm-4">
                     <h2>Application requirements</h2>
@@ -69,7 +69,7 @@ include 'Includes/header_sub.php';
                 <div class="col-md-6">
                     <h2>Specialized units</h2>
                     <p>All cadets must go through our basic training program and a probationary period before being eligible to patrol. Once completed, you'll take on the rank of 4th Class Constable and will be assigned to a patrol division where you will remain until you are promoted to 3rd Class.</p>
-                    <p>Once the rank of 3rd Class Constable is earned, you will have the opportunity to apply for a specialized unit within the Toronto Police Service.</p>
+                    <p>Once the rank of 3rd Class Constable is earned, you will have the opportunity to apply for a specialized unit within the London Police Service.</p>
                     <ul>
                         <li>Traffic Services</li>
                         <li>Emergency Task Force</li>
@@ -80,7 +80,7 @@ include 'Includes/header_sub.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/tps-3.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/lps-3.jpg" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>

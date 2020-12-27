@@ -3,7 +3,7 @@ $title = "WRPS";
 include 'Includes/header_sub.php';
 ?>
 
-<div class="subsplash subsplash-img2">
+<div class="subsplash subsplash-img3">
     <div class="header">
         <div class="container-lg">
             <div class="row">
@@ -69,7 +69,7 @@ include 'Includes/header_sub.php';
                 <div class="col-md-6">
                     <h2>Specialized units</h2>
                     <p>All cadets must go through our basic training program and a probationary period before being eligible to patrol. Once completed, you'll take on the rank of 4th Class Constable and will be assigned to a patrol division where you will remain until you are promoted to 3rd Class.</p>
-                    <p>Once the rank of 3rd Class Constable is earned, you will have the opportunity to apply for a specialized unit within the Toronto Police Service.</p>
+                    <p>Once the rank of 3rd Class Constable is earned, you will have the opportunity to apply for a specialized unit within the Waterloo Regional Police Service.</p>
                     <ul>
                         <li>Traffic Services</li>
                         <li>Emergency Task Force</li>
