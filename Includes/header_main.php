@@ -53,6 +53,7 @@
                             <li><a href="/opp">Ontario Provincial Police</a></li>
                             <li><a href="/emsfire">Fire &amp; EMS</a></li>
                             <li><a href="/civ">Civilian Operations</a></li>
+                            <li><a href="/sub">Goverment Operations</a></li>
                         </ul>
                     </div>
                     <div class="col-sm">

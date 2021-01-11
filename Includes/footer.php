@@ -26,13 +26,14 @@
                             <li><a href="/opp">Ontario Provincial Police</a></li>
                             <li><a href="/emsfire">Fire &amp; EMS</a></li>
                             <li><a href="/civ">Civilian Operations</a></li>
+                            <li><a href="/sub">Goverment Operations</a></li>
                     </ul>
                 </div>
                 <div class="d-sm-none d-md-block col-md-4 d-lg-none"></div>
                 <div class="col-sm-6 col-md-4 col-lg mt-lg-0">
                     <h2>Join us</h2>
                     <ul>
-                        <li><a href="/join">Why join GTRP?</a></li>
+                        <li><a href="/join">Why join GORP?</a></li>
                         <li><a href="/join#Opportunities">Available opportunities</a></li>
                         <li><a href="/join#Apply">How to apply</a></li>
                         <li><a href="/join#Day">A day in the life</a></li>
@@ -47,9 +48,9 @@
                             <li><a href="#">Social media</a></li>
                         </ul>*/
 		?>
-                    <p>Follow our social media channels to find out more about what we do at GTRP.</p>
-                    <a class="btn btn-social btn-social-instagram" href="https://www.instagram.com/GreaterTorontoRP/" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-social btn-social-twitter" href="https://twitter.com/GTRPOperations" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <p>Follow our social media channels to find out more about what we do at GORP.</p>
+                    <a class="btn btn-social btn-social-instagram" href="https://www.instagram.com/greaterontariorp/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-social btn-social-twitter" href="https://twitter.com/GORPOperations" target="_blank"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-social btn-social-youtube" href="https://www.youtube.com/channel/UCIrZllWX8h8kzZ3oqJ5yfdA" target="_blank"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
