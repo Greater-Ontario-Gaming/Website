@@ -41,7 +41,7 @@ include 'Includes/header_sub.php';
         <div class="container-lg">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="/Images/opp-2.jpg" class="w-100" data-aos="fade-right" />
+                    <img src="/Images/opp-2.png" class="w-100" data-aos="fade-right" />
                 </div>
                 <div class="col-md-6 mt-sm-4">
                     <h2>Application requirements</h2>
