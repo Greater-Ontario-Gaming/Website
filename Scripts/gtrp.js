@@ -33,7 +33,7 @@ $(document).ready(function () {
         for (var i = 1; i < 63; i++) {
             //images += '<div class="col-sm-2 col-md-4 col-lg-3"><img src="/Images/Gallery/' + i.toString().padStart(2, '0') + '.jpg" /></div>';
             //images += '<img class="img-gallery" src="/Images/Gallery/' + i.toString().padStart(2, '0') + '.jpg" />';
-            images += '<div class="img-gallery"><a href="/Images/Gallery/' + i.toString().padStart(2, '0') + '.jpg" title="Click to enlarge"><img src="/Images/Gallery/thumbs/' + i.toString().padStart(2, '0') + '.jpg" /></a></div>';
+            images += '<div class="img-gallery"><a href="/Images/Gallery/' + i.toString().padStart(2, '0') + '.png" title="Click to enlarge"><img src="/Images/Gallery/thumbs/' + i.toString().padStart(2, '0') + '.png" /></a></div>';
 
             if (i === 1) {
                 //images += '<img class="img-gallery" src="/Images/gtrp_logo.png" />';
