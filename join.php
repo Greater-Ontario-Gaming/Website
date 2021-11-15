@@ -25,25 +25,25 @@ include 'Includes/header_sub.php';
                     <h2>Why join GTRP?</h2>
                     <p>Our customized server gives you a real West, Ontario roleplay experience.</p>
                     <ul>
-                        <li>Current LPS, WRPS, OPP, Fire, and EMS vehicle fleets</li>
-                        <li>Multiple outfits matching LPS, WRPS, OPP, Fire, and EMS</li>
+                        <li>Current GPS, WRPS, OPP, Fire, and EMS vehicle fleets</li>
+                        <li>Multiple outfits matching GPS, WRPS, OPP, Fire, and EMS</li>
                         <li>Custom commercial vehicles</li>
                         <li>AI traffic with Ontario skins</li>
-                        <li>GO, Waterloo and London buses </li>
+                        <li>GO & Waterloo buses </li>
                         <li>30+ custom real-world civilian cars</li>
-                        <li>Current London, Waterloo Fire and Medical Services fleet</li>
+                        <li>Current Guelph/Wellington, Waterloo Fire and Medical Services fleet</li>
                         <li>Speed signs in KPH</li>
                         <li>Yellow traffic lights</li>
                         <li>City taxis</li>
                         <li>Real city billboard ads</li>
                         <li>Server-side EUP and ELS</li>
                         <li>Computer-aided Dispatch (CAD) system</li>
-                        <li>tokoVOIP</li>
+                        <li>Ongoing Development</li>
                     </ul>
                     <p>Have a look at our Gallery to see our amazing version of Toronto!</p>
                     <p><a class="btn btn-outline" href="/about#Gallery">View gallery</a></p>
                 </div>
-                <div class="col-md-6"><img src="/Images/join-us-1.jpg" class="w-100" data-aos="fade-left" /></div>
+                <div class="col-md-6"><img src="/Images/join-us-1.png" class="w-100" data-aos="fade-left" /></div>
             </div>
         </div>
     </div>
@@ -53,15 +53,15 @@ include 'Includes/header_sub.php';
     <div class="col">
         <div class="container-lg">
             <div class="row">
-                <div class="col-md-6"><img src="/Images/join-us-2.jpg" class="w-100" data-aos="fade-right" /></div>
+                <div class="col-md-6"><img src="/Images/join-us-2.png" class="w-100" data-aos="fade-right" /></div>
                 <div class="col-md-6 mt-sm-4">
                     <a name="Opportunities"><h2>Available opportunities</h2></a>
                     <p>We are currently looking for members to fill positions within the following departments:</p>
                     <ul>
-                        <li>London Police Service</li>
+                        <li>Guelph Police Service</li>
                         <li>Waterloo Regional Police Service</li>
                         <li>Ontario Provincial Police</li>
-                        <li>London, Waterloo Fire &amp; EMS</li>
+                        <li>Guelph/Wellington, Waterloo Fire &amp; EMS</li>
                         <li>Regional Communications</li>
                         <li>Civilian Operations</li>
                         <li>Community Development</li>
@@ -101,7 +101,7 @@ include 'Includes/header_sub.php';
     <div class="col">
         <div class="container-lg">
             <div class="row">
-                <div class="col-md-6"><img src="/Images/join-us-4.jpg" class="w-100" data-aos="fade-right" /></div>
+                <div class="col-md-6"><img src="/Images/join-us-4.png" class="w-100" data-aos="fade-right" /></div>
                 <div class="col-md-6 mt-sm-4">
                     <a name="Day"><h2>A day in the life...</h2></a>
                     <p>Not sure if you want to join?  Let us show you what a day on patrol looks like for a member of GTRP.</p>

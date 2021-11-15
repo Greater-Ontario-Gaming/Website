@@ -29,7 +29,7 @@ include 'Includes/header_sub.php';
                     <p>As an officer in the OPP, you'll join patrol in full uniform and a police cruiser.  You will be expected to engage in proactive community policing and answer 9-1-1 calls for police assistance on major highways and country roads, as well as provide backup to the Regional and Local Police Services as required.  You'll have various Use of Force equipment to choose from to help you deal with situations if officer presence and communication alone are not working.  You'll be expected to use your radio to communicate with dispatch and other officers in a professional manner.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/opp-1.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/opp-1.png" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>
@@ -78,7 +78,7 @@ include 'Includes/header_sub.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/opp-3.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/opp-3.png" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>

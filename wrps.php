@@ -29,7 +29,7 @@ include 'Includes/header_sub.php';
                     <p>As an officer within WRPS, you'll join patrol in full uniform and a police cruiser.  You will be expected to engage in proactive community policing and answer 9-1-1 calls for police assistance within the city, as well as provide backup to the Ontario Provincial Police Service outside the city and on major highways as required.  You'll have various Use of Force equipment to choose from to help you deal with situations if officer presence and communication alone are not working.  You'll be expected to use your radio to communicate with dispatch and other officers in a professional manner.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/tps-1.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/tps-1.png" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@ include 'Includes/header_sub.php';
         <div class="container-lg">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="/Images/tps-2.jpg" class="w-100" data-aos="fade-right" />
+                    <img src="/Images/tps-2.png" class="w-100" data-aos="fade-right" />
                 </div>
                 <div class="col-md-6 mt-sm-4">
                     <h2>Application requirements</h2>
@@ -80,7 +80,7 @@ include 'Includes/header_sub.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/tps-3.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/tps-3.png" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>

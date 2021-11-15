@@ -26,7 +26,7 @@ include 'Includes/header_sub.php';
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <img src="/Images/Gallery/28.jpg" class="w-100" data-aos="fade-right" />
+                    <img src="/Images/Gallery/28.png" class="w-100" data-aos="fade-right" />
                 </div>
                 <div class="col-md-6 mt-sm-4">
                     <h2>Roleplay &amp; Realism</h2>
@@ -69,12 +69,12 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="50" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                            London Police
+                            Guelph Police
                             <br />Service
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_deputydirector.jpg" />
-                    <h3>Supt. N. Steel</h3>
+                    <h3>Insp. R. Dazzo</h3>
                     
                 </div>
                 <div class="col-12 d-lg-none">
@@ -83,12 +83,12 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                           Waterloo & London
+                           GORP
                             <br />Fire &amp; EMS
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_emsfire.jpg" />
-                    <h3>Capt. N. Chet</h3>
+                    <h3>Chief. C. Wild</h3>
                     <p></p>
                 </div>
                 <div class="col-12 d-sm-none">
@@ -102,7 +102,7 @@ include 'Includes/header_sub.php';
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_deputydirector.jpg" />
-                    <h3>Supt. A. Gorgees</h3>
+                    <h3>Supt. C. Wilds</h3>
                 
                 </div>
             </div>
@@ -121,7 +121,7 @@ include 'Includes/header_sub.php';
                     <p>The scenarios that our civilians create for us on patrol are endless.  But here is a preview of what you'll expect to see as a member of Greater Ontario Roleplay.  And we are always improving the server &mdash; adding new vehicles or updating textures.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="/Images/about-us-2.jpg" class="w-100" data-aos="fade-left" />
+                    <img src="/Images/about-us-2.png" class="w-100" data-aos="fade-left" />
                 </div>
             </div>
         </div>

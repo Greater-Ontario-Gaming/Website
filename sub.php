@@ -12,7 +12,7 @@ include 'Includes/header_sub.php';
                 </div>
                 <div class="col">
                     <h1>Goverment Operations</h1>
-                    <p>MTO, SIU & Parks Canada</p>
+                    <p>MTO, SIU & Ministry of Natural Resources</p>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@ include 'Includes/header_sub.php';
  <br><br>
  <b>Special Investigations Unit (SIU) </b>is a provincial watchdog agency that is to nurture confidence in Ontario’s police services and special constables and peace officers by assuring the public that the actions of these officials resulting in serious injury, death, the discharge of a firearm.  
  <br><br>
- <b>Parks Canada </b> manages national parks, national historic sites, and national marine conservation areas on behalf of Canadians. This can include hunting, environmental protection, and park safety
+ <b>Ministry of Natural Resources </b> manages national parks, national historic sites, and national marine conservation areas on behalf of Canadians. This can include hunting, environmental protection, and park safety
  </p>
                 </div>
                 <div class="col-md-6">
