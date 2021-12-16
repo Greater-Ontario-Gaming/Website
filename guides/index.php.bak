@@ -9,7 +9,7 @@ include '../Includes/header_sub.php';
             <div class="row">
                 <div class="col">
                     <h1>Guides</h1>
-                    <p>As a member of Greater Ontario Roleplay, these guides will help you learn the commands and equipment that we use on patrol.</p>
+                    <p>As a member of Greater Toronto Roleplay, these guides will help you learn the commands and equipment that we use on patrol.</p>
                 </div>
             </div>
         </div>

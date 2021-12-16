@@ -9,7 +9,7 @@ include 'Includes/header_sub.php';
             <div class="row">
                 <div class="col">
                     <h1>Development</h1>
-                    <p>Below are members and Special mentions of what makes our server possible.</p>
+                    <p>Below are members and Speical mentions of what makes our server possible.</p>
                 </div>
             </div>
         </div>
