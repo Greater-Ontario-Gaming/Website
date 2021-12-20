@@ -48,7 +48,7 @@
                     <div class="col-sm">
                         <h2>Departments</h2>
                         <ul>
-                            <li><a href="/lps">Guelph Police Service</a></li>
+                            <li><a href="/lps">London Police Service</a></li>
                             <li><a href="/wrps">Waterloo Regional Police Service</a></li>
                             <li><a href="/opp">Ontario Provincial Police</a></li>
                             <li><a href="/emsfire">Fire &amp; EMS</a></li>

@@ -3,13 +3,13 @@ $title = "About Us";
 include 'Includes/header_sub.php';
 ?>
 
-<div class="subsplash subsplash-img1">
+<div class="subsplash subsplash-img8">
     <div class="header">
         <div class="container-lg">
             <div class="row">
                 <div class="col">
                     <h1>Development</h1>
-                    <p>Below are members and Speical mentions of what makes our server possible.</p>
+                    <p>Below are members and Special mentions of what makes our server possible.</p>
                 </div>
             </div>
         </div>
@@ -32,7 +32,7 @@ include 'Includes/header_sub.php';
                 <div class="col-md-6 mt-sm-4">
                     <h2>Passion  &amp; commitment</h2>
                     <p>As developers its our job to bring the real world to the server and we hope you join us to see what hard work we all have put in to the server. <br>
-                    We use GitHub to run our Development side to keep everybody in sync and organiz
+                    We use GitHub to run our Development side to keep everybody in sync and organized
                 </div>
             </div>
         </div>
@@ -58,8 +58,8 @@ include 'Includes/header_sub.php';
                            Director
                         </h3>
                     </div>
-                    <img class="w-100" src="/Images/leadership_director.jpg" />
-                    <h3>Richard "TheShiper"</h3>
+                    <img class="w-100" src="/Images/dev-director.png" />
+                    <h3>Christopher Wild</h3>
                    
                 </div>
                 <div class="col-12 d-sm-none">
@@ -68,12 +68,12 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="50" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                        Deputy Development<br />
-                           Director
+                        Website<br /> 
+						Development
                         </h3>
                     </div>
-                    <img class="w-100" src="/Images/leadership_deputydirector.jpg" />
-                    <h3>Deckard "Butler"</h3>
+                    <img class="w-100" src="/Images/zoopy-gaming.jpg" />
+                    <h3>Kieran McPherson</h3>
                    
                 </div>
                 <div class="col-12 d-lg-none">
@@ -82,12 +82,12 @@ include 'Includes/header_sub.php';
                 <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="600">
                     <div class="dept">
                         <h3>
-                            Grahpics
+                            Graphics
                             <br />&amp; Textures
                         </h3>
                     </div>
-                    <img class="w-100" src="/Images/leadership_emsfire.jpg" />
-                    <h3>Gorgees</h3>
+                    <img class="w-100" src="/Images/screw4darthvader.jpg" />
+                    <h3>Enrique Rodriguez<h3>
                     <p></p>
                 </div>
                 <div class="col-12 d-sm-none">
@@ -101,9 +101,22 @@ include 'Includes/header_sub.php';
                         </h3>
                     </div>
                     <img class="w-100" src="/Images/leadership_deputydirector.jpg" />
-                    <h3>BackToBasics Development Studios</h3>
+                    <h3>Chris rock</h3>
                     
+                </div> 
+		      
+  			  <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0" data-aos-duration="600">
+                    <div class="dept">
+                        <h3>
+                           Community <br />
+						   Founder
+                        </h3>
+                    </div>
+                    <img class="w-100" src="/Images/founder.png" />
+                    <h3>Richard "The Shiper"</h3>
+                   
                 </div>
+				
             </div>
         </div>
     </div>

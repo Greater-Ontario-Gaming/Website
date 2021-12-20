@@ -3,7 +3,7 @@ $title = "WRPS";
 include 'Includes/header_sub.php';
 ?>
 
-<div class="subsplash subsplash-img3">
+<div class="subsplash" src="/Images/wrps-header.png">
     <div class="header">
         <div class="container-lg">
             <div class="row">
@@ -45,7 +45,7 @@ include 'Includes/header_sub.php';
                 </div>
                 <div class="col-md-6 mt-sm-4">
                     <h2>Application requirements</h2>
-                    <p>In order to apply to the GORPWaterloo Regional Police Service, you must meet the following requirements.</p>
+                    <p>In order to apply to the GORP Waterloo Regional Police Service, you must meet the following requirements.</p>
                     <ul>
                         <li>Minimum of 14 years of age</li>
                         <li>Able to speak, read, and write fluent English</li>
