@@ -116,7 +116,7 @@ include 'Includes/header_sub.php';
                             Civilian Operations
                         </h3>
                     </div>
-                    <img class="w-100" src="/Images/Civ-Director.png" />
+                    <img class="w-100" src="/Images/civ-director.png" />
                     <h3>Kieran McPherson<br />
 					    Civ Director
 						</h3>

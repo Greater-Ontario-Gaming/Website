@@ -20,7 +20,7 @@
             <a name="Departments">
                 <h2>Emergency Services</h2>
             </a>
-            <p>Police. Fire. EMS. Communications.  Our server covers all of the emergency services.  Law enforcement is provided by the <a href="/lps">Guelph Police Service</a>, the <a href="/opp">Ontario Provincial Police</a> and <a href="/wrps">Waterloo Regional Police Service</a> &mdash; each with their own designated patrol areas.</p>
+            <p>Police. Fire. EMS. Communications.  Our server covers all of the emergency services.  Law enforcement is provided by the <a href="/lps">London Police Service</a>, the <a href="/opp">Ontario Provincial Police</a> and <a href="/wrps">Waterloo Regional Police Service</a> &mdash; each with their own designated patrol areas.</p>
             <p>Our group is also made up of <a href="/civ">Civilians</a> &mdash; people who our emergency services need to help. And perhaps people who need a little encouragement to keep the peace in Los Sant...uh... Ontario.  We rely on them to keep things interesting during our patrols by coming up with fresh ideas.</p>
             <?php /*
             <p>Explore all of our departments:</p>
@@ -60,7 +60,7 @@
     <div class="col-md home-text">
         <div class="content" data-aos="fade-right">
             <h2>Real Emergency Services equipment</h2>
-            <p>GORP has custom-made uniforms and vehicle skins for Guelph Police, Waterloo, O.P.P., Fire, and EMS.  We have custom equipment too like batons, radar guns, in-dash radar, and even a StarChase GPS-tracking system.</p>
+            <p>GTRP has custom-made uniforms and vehicle skins for London Police, Waterloo, O.P.P., Fire, and EMS.  We have custom equipment too like batons, radar guns, in-dash radar, and even a StarChase GPS-tracking system.</p>
             <p>Our communications are also state-of-the-art.  We use an Emergency Services-style radio system so that other in-game players can only hear you if you're nearby or are using the push-to-talk button for your radio.  Need to get details on a current call, like looking up a subject's name or licence plate?  No problem.  We have a CAD system that you can log on to and query information or see current BOLOs.</p>
             <a href="/join" class="btn btn-outline">Read more</a>
         </div>
