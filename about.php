@@ -73,8 +73,8 @@ include 'Includes/header_sub.php';
                             <br />Service
                         </h3>
                     </div>
-                    <img class="w-100" src="/Images/gps-supt.png" />
-                    <h3>Insp. R. Dazzo</h3>
+                    <img class="w-100" src="/Images/wrps-supt.png" />
+                    <h3>Interem Supt. C. Wild</h3>
                     
                 </div>
                 <div class="col-12 d-lg-none">
